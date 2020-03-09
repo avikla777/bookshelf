@@ -1,0 +1,4 @@
+lv\itlat\bookshelf\persitence\domain\Book.class
+lv\itlat\bookshelf\persitence\domain\Reservation.class
+lv\itlat\bookshelf\listener\ContextListener.class
+lv\itlat\bookshelf\persitence\domain\User.class
