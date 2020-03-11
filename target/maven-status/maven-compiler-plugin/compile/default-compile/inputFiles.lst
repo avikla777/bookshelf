@@ -1,4 +1,7 @@
-C:\projects\bookshelf\src\main\java\lv\itlat\bookshelf\persitence\domain\Reservation.java
-C:\projects\bookshelf\src\main\java\lv\itlat\bookshelf\persitence\domain\User.java
-C:\projects\bookshelf\src\main\java\lv\itlat\bookshelf\persitence\domain\Book.java
+C:\projects\bookshelf\src\main\java\lv\itlat\bookshelf\persistence\domain\Book.java
+C:\projects\bookshelf\src\main\java\lv\itlat\bookshelf\controller\MyBooksController.java
+C:\projects\bookshelf\src\main\java\lv\itlat\bookshelf\controller\NewBookController.java
+C:\projects\bookshelf\src\main\java\lv\itlat\bookshelf\persistence\domain\Reservation.java
+C:\projects\bookshelf\src\main\java\lv\itlat\bookshelf\persistence\domain\User.java
+C:\projects\bookshelf\src\main\java\lv\itlat\bookshelf\persistence\repository\BookRepository.java
 C:\projects\bookshelf\src\main\java\lv\itlat\bookshelf\listener\ContextListener.java

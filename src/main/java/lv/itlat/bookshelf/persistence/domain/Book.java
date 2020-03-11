@@ -1,4 +1,4 @@
-package lv.itlat.bookshelf.persitence.domain;
+package lv.itlat.bookshelf.persistence.domain;
 
 import javax.persistence.*;
 import javax.validation.constraints.Min;
@@ -38,7 +38,7 @@ public class Book implements Serializable {
     private String description;
 
     @NotEmpty(message = "ISBN shouldn't be empty")
-    @Size(min = 10, max = 50)
+//    @Size(min = 10, max = 50)
     @Column(name = "ISBN", length = 50, nullable = false, unique = true)
     private String isbn;
 

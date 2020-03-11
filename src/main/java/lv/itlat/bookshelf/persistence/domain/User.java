@@ -1,14 +1,16 @@
-package lv.itlat.bookshelf.persitence.domain;
+package lv.itlat.bookshelf.persistence.domain;
 
 import javax.persistence.*;
 import java.io.Serializable;
 
-@Entity(name = "RESERVATION")
-@Table(name = "reservation")
-public class Reservation implements Serializable {
+@Entity(name = "USER")
+@Table(name = "user")
+public class User implements Serializable {
+
     @Id
     @Column(name ="Id")
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
+
 
 }
